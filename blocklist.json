@@ -1,0 +1,21 @@
+{
+    "version": "1.0.0",
+    "lastUpdated": "2026-01-31",
+    "channels": [
+        {
+            "id": "example_channel",
+            "name": "예시 채널",
+            "reason": "AI 생성 콘텐츠 의심",
+            "addedAt": "2026-01-31",
+            "reportCount": 1,
+            "category": "news"
+        }
+    ],
+    "categories": {
+        "news": "가짜 뉴스/속보",
+        "celebrity": "연예인 AI 생성 영상",
+        "finance": "투자/재테크 사기",
+        "health": "건강/의료 허위정보",
+        "other": "기타"
+    }
+}
